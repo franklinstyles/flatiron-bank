@@ -25,3 +25,19 @@
   - You go and write the transaction your looking according to its description.
   ### Deleting 
   - If you have made a mistake in the transaction that you have added you can delete it if you want just click the delete button and it will delete.
+
+  ### Accessing
+  - you use this deployed link.
+   ``` 
+   https://franklinstyles.github.io/flatiron-bank/
+   ```
+  - or you can use this link and folk it on your terminal.
+  ```
+  https://github.com/franklinstyles/flatiron-bank
+  ```
+
+  ### Author 
+  Franklin Ndegwa
+
+  ### Date 
+  8/8/2024
