@@ -48,7 +48,7 @@ function AccContainer() {
   };
 
   return (
-    <div>
+    <div className="nav">
       <NavBar onSearch={handleSearch} />
       <AddTransactionForm onAddTransaction={addTransaction} />
       <TransactionsList transactions={transactions} searchTerm={searchTerm} />
