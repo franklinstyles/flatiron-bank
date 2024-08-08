@@ -1,4 +1,4 @@
-### BANK OF FLATIRON PROJECT
+# BANK OF FLATIRON PROJECT
 ========================
 
 ## Overview
@@ -18,10 +18,10 @@
   ~It has also used index.css file to style the project.
   
   ## Instructions 
-   # Adding transaction
+   ### Adding transaction
   ~If you want to add a transaction to the list you have to first need to add the date,when adding the date you first press the small icon on the side of the input bar so that you can add a date.
-  # Searching transaction
+  ### Searching transaction
   ~If you want to search a transaction,there is a bar with text content as "search your recent transaction".
   ~You go and write the transaction your looking according to its description.
-  # Deleting 
+  ### Deleting 
   ~If you have made a mistake in the transaction that you have added you can delete it if you want just click the delete button and it will delete.
