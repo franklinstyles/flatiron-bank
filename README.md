@@ -29,7 +29,7 @@
   ### Accessing
   - you use this deployed link.
    ``` 
-   https://franklinstyles.github.io/flatiron-bank/
+   https://flatiron-bank-five.vercel.app/
    ```
   - or you can use this link and folk it on your terminal.
   ```

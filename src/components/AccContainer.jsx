@@ -13,7 +13,7 @@ function AccContainer() {
 
   const fetchTransactions = async () => {
     try {
-      const response = await fetch("http://localhost:3001/transactions");
+      const response = await fetch("http://localhost:3002/transactions");
       if (!response.ok) {
         throw new Error("Failed to fetch transactions");
       }
