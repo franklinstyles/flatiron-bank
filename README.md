@@ -28,8 +28,9 @@
 
   ### Accessing
   - you use this deployed link.
+     make sure you run,,npm run dev because it uses vite.
    ``` 
-   https://flatiron-bank-five.vercel.app/
+   https://flatiron-bank-five.vercel.app/       
    ```
   - or you can use this link and folk it on your terminal.
   ```
