@@ -13,7 +13,7 @@ function AccContainer() {
 
   const fetchTransactions = async () => {
     try {
-      const response = await fetch("http://localhost:3002/transactions");
+      const response = await fetch("https://backend-woad-seven.vercel.app/transactions");
       if (!response.ok) {
         throw new Error("Failed to fetch transactions");
       }
@@ -26,7 +26,7 @@ function AccContainer() {
 
   const addTransaction = async (newTransaction) => {
     try {
-      const response = await fetch("http://localhost:3001/transactions", {
+      const response = await fetch("https://backend-woad-seven.vercel.app/transactions", {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
